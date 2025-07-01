@@ -39,7 +39,6 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@scr1ptjunk13_/streams" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/shreyanshsingh8286/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
